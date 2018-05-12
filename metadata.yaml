@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4350
     wikipedia: http://en.wikipedia.org/wiki/Murat_Halstead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41521#South-Africa-and-the-Boer-British-War-Volume-Iincluding-the-war-of-1899-and-1900
 gutenberg_issued: '2012-12-01'
 gutenberg_type: Text
 identifiers:
